@@ -1,0 +1,54 @@
+John Doe
+Software Developer
+
+Contact Information:
+Email: john.doe@email.com
+Phone: +1234567890
+Location: Kigali, Rwanda
+
+Professional Summary:
+Experienced software developer with 3 years of experience in web development and data analysis. Proficient in Python, JavaScript, and SQL. Strong background in building web applications and analyzing data to drive business decisions.
+
+Technical Skills:
+- Programming Languages: Python, JavaScript, HTML, CSS
+- Databases: SQL, MySQL, PostgreSQL
+- Frameworks: React, Django, Flask
+- Tools: Git, Docker, VS Code
+- Data Analysis: Excel, Pandas, NumPy
+- Cloud: AWS basics
+
+Work Experience:
+
+Software Developer | Tech Solutions Ltd | 2021-2024
+- Developed web applications using Python and JavaScript
+- Built REST APIs using Django and Flask
+- Worked with SQL databases for data storage and retrieval
+- Collaborated with team members using Git version control
+- Participated in code reviews and agile development processes
+
+Junior Data Analyst | DataCorp | 2020-2021
+- Analyzed business data using Python and Excel
+- Created data visualizations and reports
+- Worked with SQL databases to extract insights
+- Supported decision-making with data-driven recommendations
+
+Education:
+Bachelor of Science in Computer Science
+University of Rwanda | 2016-2020
+
+Projects:
+- E-commerce Website: Built a full-stack web application using React and Django
+- Data Dashboard: Created an interactive dashboard for business metrics using Python
+- Mobile App: Developed a simple mobile app using React Native
+
+Certifications:
+- Python Programming Certificate
+- SQL Database Management
+
+Languages:
+- English (Fluent)
+- Kinyarwanda (Native)
+- French (Intermediate)
+
+Interests:
+Technology, Data Science, Web Development, Problem Solving

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+streamlit
+sentence-transformers
+torch
+requests
+PyMuPDF
+google-generativeai
