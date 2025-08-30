@@ -89,7 +89,7 @@ Latest verification (✅ All passed):
 
 ## 🎯 AI Integration
 
-The backend uses Google's Gemini AI (`AIzaSyD7gjE9qQFCOMth91BfI2zOXwUHu7DxP3A`) for:
+The backend uses Google's Gemini AI for:
 
 1. **Smart CV Analysis** - Understanding CV content contextually
 2. **Job Capability Assessment** - Determining job suitability
